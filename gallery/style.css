@@ -1,0 +1,31 @@
+body {background-color: rgba(184, 135, 11, 0.685);}
+h1 {
+text-align: center;
+font-family: monospace;
+}
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.gallery_item {
+    background-size: cover;
+    height: 70vmin;
+    width: 100vmin;
+    max-width: 200px;
+    max-height: 150px;
+    display: flex;
+    margin: 10px;
+}
+
+.bloodymary { background-image: url("../images/bloodymary.jpeg");}
+
+.boulevardier { background-image: url("../images/boulevardier.jpeg");}
+
+.img3 { background-image: url("../images/matchafoam.jpeg");}
+
+.matchaflute {background-image: url("../images/matchaflute.jpeg");}
+
+.mountain {background-image: url("../images/oldmanmountain.jpeg");}

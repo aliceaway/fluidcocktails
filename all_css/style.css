@@ -1,0 +1,39 @@
+body {
+    background-color: rgba(184, 135, 11, 0.74);
+    margin: 0;
+}
+
+#banner {
+    background-color: darkseagreen;
+    padding: 15px;
+    margin: 15px;
+}
+
+#body_color {
+margin: 20px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+
+h2 {
+    text-align: center;
+    font-family: monospace;
+}
+
+nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+.menu{
+    font-family: monospace;
+    margin-left: 7vmin;
+    padding: 2vmin;
+    border: 2px solid black;
+    width: max-content;
+    background-color: cadetblue;
+}

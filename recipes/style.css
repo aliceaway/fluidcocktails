@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(184, 135, 11, 0.685);
+
+}
+h1 {
+    text-align: center;
+    color: black;
+    font-family: monospace;
+}
+h2, h3, p {
+    font-family: monospace;
+    margin-left: 15vmin;
+}
+
+
