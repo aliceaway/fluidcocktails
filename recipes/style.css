@@ -1,18 +1,22 @@
-body {
-    background-color: rgba(184, 135, 11, 0.685);
 
-}
 h1 {
     text-align: center;
     color: black;
     font-family: monospace;
 }
-h2 {
 
+h3 {
+    font-family: monospace;
+    margin-left: 18vmin;
+    color: rgba(106, 150, 142, 0.753);
+    border-style: double;
+    display: inline;
+   
+    
 }
-h3, p {
+
+p {
     font-family: monospace;
     margin-left: 18vmin;
 }
-
 

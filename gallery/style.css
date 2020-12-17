@@ -1,4 +1,4 @@
-body {background-color: rgba(184, 135, 11, 0.685);}
+
 h1 {
 text-align: center;
 font-family: monospace;
@@ -8,9 +8,12 @@ font-family: monospace;
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin-top: 30px;
+   
 }
 
 .gallery_item {
+    box-shadow: grey;
     background-size: cover;
     height: 70vmin;
     width: 100vmin;
@@ -18,20 +21,67 @@ font-family: monospace;
     max-height: 150px;
     display: flex;
     margin: 10px;
+   
+}
+
+a:hover {
+    visibility: visible;
+    align-items: center;
+    background: rgba(106, 150, 142, 0.349);
+    opacity: 4;
+    color: white;
+    transition: opacity 0.50s;
+   
+
+    
+}
+
+a {
+    font-family: monospace;
+    color: rgba(179, 169, 169, 0);
+    justify-content: center;
+    text-decoration: none;
+   
+   
 }
 
 .bloodymary { background-image: url("../images/bloodymary.jpeg");}
 
 .boulevardier { background-image: url("../images/boulevardier.jpeg");}
 
-.img3 { background-image: url("../images/matchafoam.jpeg");}
+.matchafoam { background-image: url("../images/matchafoam.jpeg");}
 
-.matchaflute {background-image: url("../images/matchaflute.jpeg");}
+.partydrinks {background-image: url("../images/partydrinks.jpeg");}
 
 .mountain {background-image: url("../images/oldmanmountain.jpeg");}
 
-.chaigin {background-image: url("../images/chaigin.jpeg");}
+.citrussummer {background-image: url("../images/citrussummer.jpeg");}
 
 .creamsicle {background-image: url("../images/creamsicle.jpeg");}
 
 .cucflute {background-image: url("../images/cucflute.jpeg");}
+
+.summergin 
+{background-image: url("../images/IMG_5076.jpeg");
+}
+
+.applecider
+{background-image: url("../images/applecider.jpeg");}
+
+.margish
+{background-image: url("../images/margish.jpeg");}
+
+.sipsforlynne 
+{background-image: url(../images/sipsforlynne.jpeg);}
+
+.thankcynthia
+{background-image: url(../images/IMG_4818.jpeg);}
+
+.whiskeysour
+{background-image: url("../images/whiskeysour.jpeg");}
+
+.tequilapom
+{background-image: url(../images/tequilapom.jpeg);}
+
+.tallulah3
+{background-image: url(../images/tallulah3.jpeg);}
