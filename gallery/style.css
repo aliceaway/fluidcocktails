@@ -9,6 +9,7 @@ font-family: monospace;
     flex-wrap: wrap;
     justify-content: center;
     margin-top: 30px;
+    padding-bottom: 10vmin;
    
 }
 
@@ -28,7 +29,7 @@ a:hover {
     visibility: visible;
     align-items: center;
     background: rgba(106, 150, 142, 0.349);
-    opacity: 4;
+    opacity: 1;
     color: white;
     transition: opacity 0.50s;
    
