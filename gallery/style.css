@@ -19,7 +19,7 @@ p {
 }
 
 .gallery_item {
-    box-shadow: grey;
+    box-shadow: 4px 4px 10px -5px gray;
     background-size: cover;
     height: 70vmin;
     width: 100vmin;
@@ -33,7 +33,7 @@ p {
 a:hover {
     visibility: visible;
     align-items: center;
-    background: rgba(106, 150, 142, 0.349);
+    background: rgba(106, 150, 142, 0.327);
     opacity: 1;
     color: white;
     transition: opacity 0.50s;
@@ -91,3 +91,4 @@ a {
 
 .tallulah3
 {background-image: url(../images/tallulah3.jpeg);}
+

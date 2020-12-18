@@ -25,3 +25,12 @@ footer {
     color: rgba(0, 0, 0, 0.459);;
     font-size: 12px;
 }
+
+.about-text {
+    max-width: 80ch;
+    margin: 0 auto;
+}
+
+.about-text  p {
+    margin-bottom: 20px;
+}
